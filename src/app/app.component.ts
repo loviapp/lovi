@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'lovi';
+  lat = -33.436933;
+  lng = -70.6366234;
+
 }
